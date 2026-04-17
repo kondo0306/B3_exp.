@@ -1,3 +1,4 @@
+#3.1(1)sin波の出力、プロット
 import numpy as np
 import matplotlib.pyplot as plt
 sfreq = 100000

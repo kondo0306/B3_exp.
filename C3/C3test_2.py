@@ -1,3 +1,4 @@
+#3.1(3)フーリエ変換して強度出した
 import numpy as np
 import matplotlib.pyplot as plt
 

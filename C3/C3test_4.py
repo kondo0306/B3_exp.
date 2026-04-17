@@ -1,4 +1,4 @@
-#矩形信号を出す
+#3.2(1)矩形信号を出す
 import numpy as np
 import matplotlib.pyplot as plt
 

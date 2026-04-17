@@ -1,3 +1,4 @@
+#3.2(1)矩形信号のフーリエ変換
 import numpy as np
 import matplotlib.pyplot as plt
 
